@@ -1,1 +1,1 @@
-# obs-skroutz-xml
+# obs-linkwise-xml
