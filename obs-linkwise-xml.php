@@ -3,7 +3,7 @@
 * Plugin Name: OBS Linkwise XML
 * Plugin URI:
 * Description: Export woocommerce products as xml for linkwise.
-* Version: 0.0.1
+* Version: 2.0.0
 * Author: OBS Technologies
 * Author URI: https://obstechnologies.com/
 * License:
